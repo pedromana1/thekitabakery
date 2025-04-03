@@ -1,0 +1,27 @@
+.zmzImageCompare__banner.image__compare--wrapper {
+  position: relative;
+  max-width: calc(var(--page-width) - (var(--offsetX)*2));   
+  margin: 0 auto; 
+  padding: 0; 
+}
+
+.zmzImageCompare__banner  {
+  display: flex;
+  flex-direction: column;
+}
+
+.zmzImageCompare__banner .heading--description + .button{
+  margin-top: 1.5rem;
+}
+
+.zmzImageCompare__banner .description__wrapper.order-1{
+  order: -1;
+}
+
+.zmzImageCompare__banner .description__wrapper.order-2{
+  order: 1;
+}
+
+.zmzImageCompare__banner .heading--description {
+  max-width: 420px;
+}

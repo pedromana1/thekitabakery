@@ -1,0 +1,36 @@
+.zmz-logo-list .slider-buttons {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.zmz-logo-list .grid {
+    margin-bottom: 0;
+}
+.zmz-logo-list li.multicolumn-list__item {
+    margin-top: 1.5rem;
+}
+.zmz-logo-list .media img{
+    opacity: 0.75; 
+}
+.zmz-logo-list .media img:hover{
+    transition: 0.3s;
+    opacity: 1;
+}
+
+.zmz-logo-list .multicolumn-list__item.grid__item {
+    margin-top: 0;
+}
+
+
+@media screen and (min-width: 990px){
+    .zmz-logo-list .slider-buttons button.slider-button.slider-button--next,
+    .zmz-logo-list .slider-buttons button.slider-button.slider-button--prev {
+        position: absolute;
+        top: 50%;
+    }
+
+    .zmz-logo-list .slider-buttons.is-counter button.slider-button.slider-button--next,
+    .zmz-logo-list .slider-buttons.is-counter button.slider-button.slider-button--prev {
+        position: absolute;
+        top: 30%;
+    }
+}

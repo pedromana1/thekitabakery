@@ -1,0 +1,100 @@
+.zmz-icon-text .multicolumn-card-spacing {
+    padding: 0;
+    margin: 0;
+}
+.zmz-icon-text .color-inverse .icon {
+    color: white;
+}
+.zmz-icon-text .color-inverse p {
+    color: white;
+}
+.zmz-icon-text .rte h1,
+.zmz-icon-text .rte h2,
+.zmz-icon-text .rte h3,
+.zmz-icon-text .rte h4,
+.zmz-icon-text .rte h5,
+.zmz-icon-text .rte h6{
+  margin:0;
+  color: inherit;
+}
+.zmz-icon-text .multicolumn.no-heading .title {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.zmz-icon-text .rte p {
+    margin: 0;
+}
+.zmz-icon-text .itemTextInfo .rte {
+    margin-top: 0.5rem;
+}
+
+.zmz-icon-text .multicolumn-list__item.center .multicolumn-card__info{
+    justify-content: center;
+}
+.zmz-icon-text .multicolumn-list__item.left .multicolumn-card__info{
+    justify-content: flex-start;
+}
+.zmz-icon-text .multicolumn-list__item.right .multicolumn-card__info{
+    justify-content: flex-end;
+}
+
+.zmz-icon-text .multicolumn-list__item .footer__list-social {
+    margin-top: 0.9rem;
+}
+.zmz-icon-text .multicolumn-card__info .link {
+    padding: 0;
+    margin-right: 0.6rem;
+
+}
+.zmz-icon-text .list-social__item a{
+    margin-top: 0;
+}
+.zmz-icon-text .multicolumn-list__item.grid__item {
+    margin-bottom: 2.7rem; 
+}
+.zmz-icon-text a.link.animate-arrow{
+    margin-top: 0.6rem;
+}
+.zmz-icon-text button.slider-button.slider-button--next {
+    right: -28px;
+}
+.zmz-icon-text button.slider-button.slider-button--prev {
+    left: -28px;
+}
+.zmz-icon-text .multicolumn-card__info {
+    padding: 0;
+}
+
+
+
+.zmz-icon-text img {
+    width: 100%;
+}
+.zmz-icon-text .iconWrapper svg {
+    width: 100%;
+    height: auto;
+}
+
+.zmz-icon-text .multicolumn-list__item.right .iconWrapper {
+    margin-left: auto;
+}
+.zmz-icon-text .multicolumn-list__item.center .iconWrapper {
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (min-width: 750px){
+    .zmz-icon-text .icon-with-text--horizontal {
+        display: flex;
+    }
+}
+
+.zmz-icon-text .title {
+    margin: 1rem 0; 
+}
+
+@media screen and (min-width: 990px){
+    .zmz-icon-text .title {
+        margin: 1rem 0;
+    }
+}

@@ -1,0 +1,66 @@
+.zmz-multicolumn .multicolumn-card-spacing {
+    padding: 0;
+    margin: 0;
+}
+
+.zmz-multicolumn .itemTextInfo .rte {
+    margin-top: 0.5rem;
+}
+.zmz-multicolumn .multicolumn-list__item.center .footer__list-social{
+    justify-content: center;
+}
+
+.zmz-multicolumn .multicolumn-list__item.left .footer__list-social{
+    justify-content: flex-start;
+}
+.zmz-multicolumn .multicolumn-list__item.right .footer__list-social{
+    justify-content: flex-end;
+}
+.zmz-multicolumn .multicolumn-list__item .footer__list-social {
+    margin-top: 0.9rem;
+}
+.zmz-multicolumn .multicolumn-card__info .link {
+    padding: 0;
+    margin-right: 0.6rem;
+
+}
+.zmz-multicolumn .list-social__item a{
+    margin-top: 0;
+}
+.zmz-multicolumn .multicolumn-list__item.grid__item {
+    margin-bottom: 2.7rem; 
+}
+.zmz-multicolumn a.link.animate-arrow{
+    margin-top: 0.6rem;
+}
+
+.zmz-multicolumn .multicolumn-card__info .title{
+    margin-bottom: 0.5rem;
+    font-weight: bold; 
+}
+
+.zmz-multicolumn .multicolumn-list__item.center .list-social {
+    justify-content: center;
+}
+
+.zmz-multicolumn .multicolumn-list__item.left .list-social {
+    justify-content: flex-start;
+}
+
+.zmz-multicolumn .multicolumn-list__item.right .list-social {
+    justify-content: flex-end;
+}
+
+
+.zmz-testimonials button.slider-button.slider-button--next {
+    right: -28px;
+}
+.zmz-testimonials button.slider-button.slider-button--prev {
+    left: -28px;
+}
+.zmz-testimonials .multicolumn-card__info {
+    padding: 0;
+}
+
+
+
